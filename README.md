@@ -5,7 +5,7 @@ Notes and preparation for **International Conference on Artificial Intelligence,
 ## Files
 - `agenda.md` — proposed session list
 - `logistics.md` — travel checklist and contact points
-- `slides/` — placeholder for slide links (not public)
+- `slides/` — placeholder for slide links (tbc)
 
 ## Short checklist
 - Passport, adaptors, charger bank  
